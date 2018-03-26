@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.5.1)
+  - GrowingTextView (0.5.3)
+  - IQKeyboardManager (5.0.6)
+  - Kingfisher (4.2.0)
+  - KYCircularProgress (1.0.1)
+  - MBProgressHUD (1.0.0)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - GrowingTextView
+  - IQKeyboardManager
+  - Kingfisher
+  - KYCircularProgress
+  - MBProgressHUD
+  - SnapKit
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  GrowingTextView: fd5cd2af28d4ba60676bb15186edf3a6b36fa85b
+  IQKeyboardManager: 077b7f691dfa9d69db9cff66f2bed68ebfc02d9b
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  KYCircularProgress: b782af0a68dd2032a4a523e722ec8d571c285cf2
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: b19f8c3f0fbdaaa42bbac238b73739b1c1f383fb
+
+COCOAPODS: 1.3.1
